@@ -27,10 +27,10 @@ Two challenges immediately present themselves: these springs are tiny, which mak
 ![alt text](Trial_Tuner.jpeg)
 
 ## Tips for success 
-- A small dot of gel CA glue on the pin holes may be necessary to keep the pins firm if your printer leave the holes too loose. 
-- Giving the pins a light lead in chamfer with a diamond file is helpful for getting the springs onto the tool. Especially if the wire snips left burrs on the ends of the pins. 
-- Precision tweezers are a must for handling the springs at all. These springs are so small that they will fly across the room if they slip off whatever is holding them while even a little stretched. Yes, that happened to me on carpet. Learn purely vicariously through me on that one.
-- Holding the wings of the switch together with your fingers while removing the spring with tweezers can help prevent the wings from coming off the base. The switch can be reassembled if it comes apart, but this is a little annoying.
+- A small dot of gel CA glue on the pin holes may be necessary to keep the pins firm if your printer leaves the holes too loose. 
+- Giving the pins a light lead-in chamfer with a diamond file is helpful for getting the springs onto the tool. Especially if the wire cutters left burrs on the ends of the pins. 
+- Precision tweezers are a must for handling the springs at all. These springs are so small that they will fly across the room if they slip off whatever is holding them while even a little stretched. Yes, that happened to me on carpet. Learn vicariously through me on that one.
+- Holding the wings of the switch together with your fingers while removing the spring with tweezers can help prevent the wings from coming off the base. The switch can be reassembled if it comes apart. It's not a big deal, but this is a little annoying.
 - Sometimes the spring hooks may feel like they're caught on the pins. Be careful not to accidently apply any bending load to the spring in a way that could deform the wire in an unintended direction. Just gently rock the spring back and forth to free it so it can be removed without force. 
 - Make sure the arm is pressed flat against the base when loading the spring to keep the results consistent.
 - The orientation of the spring on the tool may matter if you're stretching it below 30g of switch actuation force. The spring hooks begin to open up by a tiny amount at these loads. This is inconsequential for the spring when used on a switch because this level of loading is never applied again. Orient the spring so the hook openings are facing the arm tip. This reduces the chance of the spring liberating from the pins. 
