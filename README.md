@@ -20,7 +20,7 @@ Two challenges immediately present themselves: these springs are tiny, which mak
 2. Press a short section of wire into the three pin holes (two in the base, one on the arm). The wire should be about 0.64mm (0.025in) in diameter. I found the end of a breadboard jumper cable was perfect. Snip these wires 4-6mm above the surface.
 3. Press the arm onto the pivot pin on the base. Installing a pin here helps keep the two pieces well-aligned for a consistent spring length with the tool gradations. The arm should sit flush against the surface of the base.
 4. Carefully unhook the spring from the switch arms, one side at a time with precision tweezers, and install it onto the two exposed tool pins. Ensure to install by passing the spring hooks over the top of the pins rather than forcing the hooks around the side of the pin to prevent bending the fragile ends.
-5. Press the arm flat aginst the base and pivot the arm to the actuation force you want. Hold the arm there for a couple seconds and release gently.
+5. Press the arm flat aginst the base and pivot the arm to the actuation force you want. Hold the arm there for a couple seconds and release gently. Note: The large gap between the 65g and 55g gradations is the displacement that's needed to overcome elastic elongation of the spring and enter the range where the spring will no longer relax to the original length! 
 6. Remove the spring from the tool by carefully pulling straight up. Reinstall the spring on the keyswitch, one side at a time. The switch has two sets of holes, be sure to use the right ones (furthest from the electrical connections).
 7. Repeat steps 4-6 for the remaining switches. 
 
