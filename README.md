@@ -24,7 +24,7 @@ Two challenges immediately present themselves: these springs are tiny, which mak
 6. Remove the spring from the tool by carefully pulling straight up. Reinstall the spring on the keyswitch, one side at a time. The switch has two sets of holes, be sure to use the right ones (furthest from the electrical connections).
 7. Repeat steps 4-6 for the remaining switches. 
 
-![alt text](Trial_Tuner.jpg)
+![alt text](Trial_Tuner.jpeg)
 
 ## Tips for success 
 - A small dot of gel CA glue on the pin holes may be necessary to keep the pins firm if your printer leave the holes too loose. 
