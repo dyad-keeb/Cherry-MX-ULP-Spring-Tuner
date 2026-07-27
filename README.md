@@ -16,7 +16,7 @@ Two challenges immediately present themselves: these springs are tiny, which mak
 ![alt text](Spring_Tuner.jpg)
 
 ## Instructions 
-1. Print the Spring_tuner_base.stl and Spring_tuner_arm.stl files. Print with 3-4 wall layers. I used PETG, but I'm sure PLA would work find. 
+1. Print the Spring_tuner_base.stl and Spring_tuner_arm.stl files. Print with 3-4 wall layers. I used PETG, but I'm sure PLA would work fine. 
 2. Press a short section of wire into the three pin holes (two in the base, one on the arm). The wire should be about 0.64mm (0.025in) in diameter. I found the end of a breadboard jumper cable was perfect. Snip these wires 4-6mm above the surface.
 3. Press the arm onto the pivot pin on the base. Installing a pin here helps keep the two pieces well-aligned for a consistent spring length with the tool gradations. The arm should sit flush against the surface of the base.
 4. Carefully unhook the spring from the switch arms, one side at a time with precision tweezers, and install it onto the two exposed tool pins. Ensure to install by passing the spring hooks over the top of the pins rather than forcing the hooks around the side of the pin to prevent bending the fragile ends.
